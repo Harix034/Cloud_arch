@@ -1,0 +1,5 @@
+region = "us-east-1"
+bucket_name = "harish-bucket-final-assignment"
+dynamodb_table_name = "terraform-state-lock"
+ami_id = "ami-0453ec754f44f9a4a"
+instance_type = "t2.micro"
